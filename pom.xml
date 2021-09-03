@@ -41,5 +41,10 @@
 			<scope>test</scope>
 		</dependency>
 
+		<dependency>
+			<groupId>com.ibm.mq</groupId>
+			<artifactId>com.ibm.mq.allclient</artifactId>
+			<version>9.2.3.0</version>
+		</dependency>
 	</dependencies>
 </project>
